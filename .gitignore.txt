@@ -1,0 +1,5 @@
+Files to be ignored...
+
+washington.csv
+new_york_city.csv
+chicago.csv
