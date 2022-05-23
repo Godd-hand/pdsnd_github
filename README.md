@@ -20,3 +20,5 @@ washington.csv
 Juno Lee - Python Instructor
 Richard Kalehoff - Version Control
 
+### License
+To the best of my knowledge, no known license issues
