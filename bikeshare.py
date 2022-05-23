@@ -1,3 +1,5 @@
+# Additional changes to the documentation 
+
 # This is a project from Udacity's Data science nanodegree program
 
 # Sources consulted during the development of this solution are listed below
