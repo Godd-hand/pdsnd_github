@@ -46,8 +46,15 @@ ii. load the files (.csv files available in the google drive link above) into py
 
 George Thomas
 
+### Version
+
+1.0 Initial release
+
+
 ### Credits
 Juno Lee - Python Instructor
 
 Richard Kalehoff - Version Control
+
+Opara-Eze Tochi 
 
