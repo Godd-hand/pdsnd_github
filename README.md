@@ -19,6 +19,33 @@ new_york_city.csv
 
 washington.csv
 
+files can be found here: https://drive.google.com/file/d/1UNgxZbDQj83E_wopMzuqrtuOHtwVV7UZ/view?usp=sharing
+
+### Dependencies
+Python 3
+
+numpy library
+
+pandas library
+
+Machine running on Windows 8 or higher
+
+### Program
+The bikeshare progam is available for download on my repository
+
+### Program Execution
+In order to successfully run the program, you will need to:
+
+i. import the pandas and numpy libraries
+
+ii. load the files (.csv files available in the google drive link above) into python 3 as: 
+
+    CITY_DATA = { 'chicago': 'chicago.csv', 'new york city': 'new_york_city.csv', 'washington': 'washington.csv' }
+
+### Author
+
+George Thomas
+
 ### Credits
 Juno Lee - Python Instructor
 
